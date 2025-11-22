@@ -1,0 +1,154 @@
+20251122-02:17:55: Session FIXT.1.1:BeerFIXServer->BeerClient01 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20251122-02:17:55: Created session: FIXT.1.1:BeerFIXServer->BeerClient01
+20251122-02:23:57: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:10700
+20251122-02:23:57: Acceptor heartbeat set to 30 seconds
+20251122-02:23:57: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:23:57: Disconnecting: Invalid Logon message: Invalid tag number, field=1137
+20251122-02:24:27: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:12581
+20251122-02:24:27: Acceptor heartbeat set to 30 seconds
+20251122-02:24:27: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:24:28: Disconnecting: Invalid Logon message: Invalid tag number, field=1137
+20251122-02:24:57: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:12603
+20251122-02:24:57: Acceptor heartbeat set to 30 seconds
+20251122-02:24:57: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:24:57: Disconnecting: Invalid Logon message: Invalid tag number, field=1137
+20251122-02:25:28: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:7151
+20251122-02:25:28: Acceptor heartbeat set to 30 seconds
+20251122-02:25:28: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:25:28: Disconnecting: Invalid Logon message: Invalid tag number, field=1137
+20251122-02:27:05: Session FIXT.1.1:BeerFIXServer->BeerClient01 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20251122-02:27:05: Created session: FIXT.1.1:BeerFIXServer->BeerClient01
+20251122-02:28:14: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:10006
+20251122-02:28:14: Acceptor heartbeat set to 30 seconds
+20251122-02:28:14: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:28:14: Disconnecting: Invalid Logon message: Invalid tag number, field=1137
+20251122-02:28:44: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:12579
+20251122-02:28:44: Acceptor heartbeat set to 30 seconds
+20251122-02:28:44: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:28:44: Disconnecting: Invalid Logon message: Invalid tag number, field=1137
+20251122-02:32:32: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:14976
+20251122-02:32:32: Acceptor heartbeat set to 30 seconds
+20251122-02:32:32: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:32:32: Disconnecting: Invalid Logon message: Invalid tag number, field=1137
+20251122-02:33:02: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:1024
+20251122-02:33:02: Acceptor heartbeat set to 30 seconds
+20251122-02:33:02: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:33:02: Disconnecting: Invalid Logon message: Invalid tag number, field=1137
+20251122-02:33:32: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:1043
+20251122-02:33:32: Acceptor heartbeat set to 30 seconds
+20251122-02:33:32: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:33:32: Disconnecting: Invalid Logon message: Invalid tag number, field=1137
+20251122-02:34:03: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:1064
+20251122-02:34:03: Acceptor heartbeat set to 30 seconds
+20251122-02:34:03: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:34:03: Disconnecting: Invalid Logon message: Invalid tag number, field=1137
+20251122-02:34:33: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:1080
+20251122-02:34:33: Acceptor heartbeat set to 30 seconds
+20251122-02:34:33: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:34:33: Disconnecting: Invalid Logon message: Invalid tag number, field=1137
+20251122-02:35:03: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:1301
+20251122-02:35:03: Acceptor heartbeat set to 30 seconds
+20251122-02:35:03: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:35:03: Disconnecting: Invalid Logon message: Invalid tag number, field=1137
+20251122-02:35:34: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:12171
+20251122-02:35:34: Acceptor heartbeat set to 30 seconds
+20251122-02:35:34: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:35:34: Disconnecting: Invalid Logon message: Invalid tag number, field=1137
+20251122-02:36:04: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:2009
+20251122-02:36:04: Acceptor heartbeat set to 30 seconds
+20251122-02:36:04: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:36:04: Disconnecting: Invalid Logon message: Invalid tag number, field=1137
+20251122-02:36:34: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:4420
+20251122-02:36:34: Acceptor heartbeat set to 30 seconds
+20251122-02:36:34: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:36:34: Disconnecting: Invalid Logon message: Invalid tag number, field=1137
+20251122-02:37:04: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:5789
+20251122-02:37:04: Acceptor heartbeat set to 30 seconds
+20251122-02:37:04: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:37:04: Disconnecting: Invalid Logon message: Invalid tag number, field=1137
+20251122-02:37:35: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:5811
+20251122-02:37:35: Acceptor heartbeat set to 30 seconds
+20251122-02:37:35: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:37:35: Disconnecting: Invalid Logon message: Invalid tag number, field=1137
+20251122-02:38:05: Session FIXT.1.1:BeerFIXServer->BeerClient01 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20251122-02:38:05: Created session: FIXT.1.1:BeerFIXServer->BeerClient01
+20251122-02:38:31: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:5848
+20251122-02:38:31: Acceptor heartbeat set to 30 seconds
+20251122-02:38:31: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:38:31: quickfix.SessionException MsgSeqNum too low, expecting 18 but received 1
+20251122-02:38:31: Disconnecting: Verifying message failed: quickfix.SessionException: MsgSeqNum too low, expecting 18 but received 1
+20251122-02:38:35: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:5851
+20251122-02:38:35: Acceptor heartbeat set to 30 seconds
+20251122-02:38:35: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:38:35: Received logon
+20251122-02:38:35: Responding to Logon request
+20251122-02:38:35: MsgSeqNum too high, expecting 18 but received 35: 8=FIXT.1.19=8835=A34=3549=BeerClient0152=20251122-02:38:35.88056=BeerFIXServer98=0108=301137=910=236
+20251122-02:38:35: Enqueued at pos 35: 8=FIXT.1.19=8835=A34=3549=BeerClient0152=20251122-02:38:35.88056=BeerFIXServer98=0108=301137=910=236
+20251122-02:38:35: Sent ResendRequest FROM: 18 TO: infinity
+20251122-02:38:35: Enqueued at pos 36: 8=FIXT.1.19=7935=234=3649=BeerClient0152=20251122-02:38:35.94256=BeerFIXServer7=1816=010=052
+20251122-02:38:35: Received ResendRequest FROM: 18 TO: infinity
+20251122-02:38:35: Sent SequenceReset TO: 21
+20251122-02:38:35: Rejecting invalid message: quickfix.FieldException: Invalid tag number, field=43: 8=FIXT.1.19=11235=434=1843=Y49=BeerClient0152=20251122-02:38:35.94556=BeerFIXServer122=20251122-02:38:35.94536=37123=Y10=238
+20251122-02:38:35: Reject sent for message 18: Invalid tag number, field=43
+20251122-02:39:01: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:5864 since session is already established from /127.0.0.1:5851
+20251122-02:39:06: MsgSeqNum too high, expecting 18 but received 37: 8=FIXT.1.19=6935=034=3749=BeerClient0152=20251122-02:39:06.58856=BeerFIXServer10=132
+20251122-02:39:06: Enqueued at pos 37: 8=FIXT.1.19=6935=034=3749=BeerClient0152=20251122-02:39:06.58856=BeerFIXServer10=132
+20251122-02:39:06: Already sent ResendRequest FROM: 18 TO: 34.  Not sending another.
+20251122-02:39:31: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:13847 since session is already established from /127.0.0.1:5851
+20251122-02:39:36: MsgSeqNum too high, expecting 18 but received 38: 8=FIXT.1.19=6935=034=3849=BeerClient0152=20251122-02:39:36.59756=BeerFIXServer10=136
+20251122-02:39:36: Enqueued at pos 38: 8=FIXT.1.19=6935=034=3849=BeerClient0152=20251122-02:39:36.59756=BeerFIXServer10=136
+20251122-02:39:36: Already sent ResendRequest FROM: 18 TO: 34.  Not sending another.
+20251122-02:40:12: Session FIXT.1.1:BeerFIXServer->BeerClient01 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20251122-02:40:12: Created session: FIXT.1.1:BeerFIXServer->BeerClient01
+20251122-02:40:18: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:13886
+20251122-02:40:18: Acceptor heartbeat set to 30 seconds
+20251122-02:40:18: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:40:18: Received logon
+20251122-02:40:18: Responding to Logon request
+20251122-02:40:18: Received logout request: MsgSeqNum too low, expecting 24 but received 1
+20251122-02:40:18: Sent logout response
+20251122-02:40:18: Disconnecting: Received logout request: MsgSeqNum too low, expecting 24 but received 1
+20251122-02:40:32: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:8314
+20251122-02:40:32: Acceptor heartbeat set to 30 seconds
+20251122-02:40:32: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:40:32: Received logon
+20251122-02:40:32: Responding to Logon request
+20251122-02:40:49: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:8325 since session is already established from /127.0.0.1:8314
+20251122-02:41:02: MsgSeqNum too high, expecting 2 but received 6: 8=FIXT.1.19=6835=034=649=BeerClient0152=20251122-02:41:02.68556=BeerFIXServer10=066
+20251122-02:41:02: Enqueued at pos 6: 8=FIXT.1.19=6835=034=649=BeerClient0152=20251122-02:41:02.68556=BeerFIXServer10=066
+20251122-02:41:02: Sent ResendRequest FROM: 2 TO: infinity
+20251122-02:41:02: Rejecting invalid message: quickfix.FieldException: Invalid tag number, field=43: 8=FIXT.1.19=11035=434=243=Y49=BeerClient0152=20251122-02:41:02.69056=BeerFIXServer122=20251122-02:41:02.69036=7123=Y10=100
+20251122-02:41:02: Reject sent for message 2: Invalid tag number, field=43
+20251122-02:41:14: Disconnecting: Socket exception (/127.0.0.1:8314): java.net.SocketException: Connection reset
+20251122-02:41:52: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:10441
+20251122-02:41:52: Acceptor heartbeat set to 30 seconds
+20251122-02:41:52: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:41:52: Disconnecting: Invalid Logon message: Invalid tag number, field=141
+20251122-02:42:22: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:10458
+20251122-02:42:22: Acceptor heartbeat set to 30 seconds
+20251122-02:42:22: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:42:22: Disconnecting: Invalid Logon message: Invalid tag number, field=141
+20251122-02:42:52: Session FIXT.1.1:BeerFIXServer->BeerClient01 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20251122-02:42:52: Created session: FIXT.1.1:BeerFIXServer->BeerClient01
+20251122-02:43:04: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:10499
+20251122-02:43:04: Acceptor heartbeat set to 30 seconds
+20251122-02:43:04: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:43:04: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20251122-02:43:04: Received logon
+20251122-02:43:04: Responding to Logon request
+20251122-02:43:23: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:10513 since session is already established from /127.0.0.1:10499
+20251122-02:43:53: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:8905 since session is already established from /127.0.0.1:10499
+20251122-02:44:23: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:8921 since session is already established from /127.0.0.1:10499
+20251122-02:44:54: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:8935 since session is already established from /127.0.0.1:10499
+20251122-02:45:24: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:8955 since session is already established from /127.0.0.1:10499
+20251122-02:45:54: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:8970 since session is already established from /127.0.0.1:10499
+20251122-02:46:24: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:10097 since session is already established from /127.0.0.1:10499
+20251122-02:46:55: Multiple logons/connections for this session are not allowed. Closing connection from /127.0.0.1:10118 since session is already established from /127.0.0.1:10499
+20251122-02:47:10: Disconnecting: Socket exception (/127.0.0.1:10499): java.net.SocketException: Connection reset
+20251122-02:50:48: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:4089
+20251122-02:50:48: Acceptor heartbeat set to 30 seconds
+20251122-02:50:48: Setting DefaultApplVerID (1137=9) from Logon
+20251122-02:50:48: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20251122-02:50:48: Received logon
+20251122-02:50:48: Responding to Logon request
+20251122-02:51:58: Disconnecting: Socket exception (/127.0.0.1:4089): java.net.SocketException: Connection reset

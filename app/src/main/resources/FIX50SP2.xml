@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Minimal FIX5.0SP2 dictionary with custom message types AE and AR -->
+<fix major="5" type="FIX" servicepack="2">
+  <header>
+    <field name="BeginString" required="Y"/>
+    <field name="BodyLength" required="Y"/>
+    <field name="MsgType" required="Y"/>
+    <field name="SenderCompID" required="Y"/>
+    <field name="TargetCompID" required="Y"/>
+    <field name="MsgSeqNum" required="Y"/>
+    <field name="SendingTime" required="Y"/>
+  </header>
+  <messages>
+    <message name="AE" msgtype="AE" msgcat="app">
+      <field name="SenderCompID" required="Y"/>
+      <field name="TargetCompID" required="Y"/>
+    </message>
+    <message name="AR" msgtype="AR" msgcat="app">
+      <field name="SenderCompID" required="Y"/>
+      <field name="TargetCompID" required="Y"/>
+    </message>
+  </messages>
+  <fields>
+    <field number="8" name="BeginString" type="STRING"/>
+    <field number="9" name="BodyLength" type="INT"/>
+    <field number="35" name="MsgType" type="STRING"/>
+    <field number="49" name="SenderCompID" type="STRING"/>
+    <field number="56" name="TargetCompID" type="STRING"/>
+    <field number="34" name="MsgSeqNum" type="INT"/>
+    <field number="52" name="SendingTime" type="UTCTIMESTAMP"/>
+  </fields>
+  <trailer>
+    <field name="CheckSum" required="Y"/>
+  </trailer>
+</fix>
