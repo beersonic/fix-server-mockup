@@ -130,3 +130,29 @@ Caused by: quickfix.ConfigError: Field CheckSum not defined in fields section
 [2025-11-22 09:50:47] [NioProcessor-2] INFO  quickfix.mina.acceptor.AcceptorIoHandler - MINA session created: local=/127.0.0.1:9878, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=/127.0.0.1:4089
 [2025-11-22 09:50:48] [QFJ Message Processor] INFO  com.example.fixacceptor.App - Logon: FIXT.1.1:BeerFIXServer->BeerClient01
 [2025-11-22 09:51:58] [NioProcessor-2] INFO  com.example.fixacceptor.App - Logout: FIXT.1.1:BeerFIXServer->BeerClient01
+[2025-11-22 20:01:28] [main] INFO  quickfix.DefaultSessionSchedule - [FIXT.1.1:BeerFIXServer->*] daily, 00:00:00-UTC - 23:59:59-UTC
+[2025-11-22 20:01:28] [main] INFO  com.example.fixacceptor.App - Session created: FIXT.1.1:BeerFIXServer->*
+[2025-11-22 20:01:28] [main] INFO  quickfix.SocketAcceptor - SessionTimer started
+[2025-11-22 20:01:28] [main] INFO  quickfix.mina.NetworkingOptions - Socket option: SocketTcpNoDelay=true
+[2025-11-22 20:01:28] [main] INFO  quickfix.mina.NetworkingOptions - Socket option: SocketSynchronousWrites=false
+[2025-11-22 20:01:28] [main] INFO  quickfix.mina.NetworkingOptions - Socket option: SocketSynchronousWriteTimeout=30000
+[2025-11-22 20:01:28] [main] INFO  quickfix.SocketAcceptor - Listening for connections at 0.0.0.0/0.0.0.0:9878 for session(s) [FIXT.1.1:BeerFIXServer->*]
+[2025-11-22 20:01:28] [main] INFO  com.example.fixacceptor.App - FIX Acceptor started. Press Ctrl+C to exit.
+[2025-11-22 20:01:28] [QFJ Message Processor] INFO  quickfix.SocketAcceptor - Started QFJ Message Processor
+[2025-11-22 20:01:38] [NioProcessor-2] INFO  quickfix.mina.acceptor.AcceptorIoHandler - MINA session created: local=/127.0.0.1:9878, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=/127.0.0.1:12028
+[2025-11-22 20:01:38] [NioProcessor-2] ERROR quickfix.mina.acceptor.AcceptorIoHandler - Disconnecting; received message for unknown session: 8=FIXT.1.19=9335=A34=149=BeerClient0152=20251122-13:01:38.95256=BeerFIXServer98=0108=30141=Y1137=910=217
+[2025-11-22 20:02:09] [NioProcessor-3] INFO  quickfix.mina.acceptor.AcceptorIoHandler - MINA session created: local=/127.0.0.1:9878, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=/127.0.0.1:8822
+[2025-11-22 20:02:09] [NioProcessor-3] ERROR quickfix.mina.acceptor.AcceptorIoHandler - Disconnecting; received message for unknown session: 8=FIXT.1.19=9335=A34=149=BeerClient0152=20251122-13:02:09.93456=BeerFIXServer98=0108=30141=Y1137=910=216
+[2025-11-22 20:02:39] [NioProcessor-4] INFO  quickfix.mina.acceptor.AcceptorIoHandler - MINA session created: local=/127.0.0.1:9878, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=/127.0.0.1:5442
+[2025-11-22 20:02:39] [NioProcessor-4] ERROR quickfix.mina.acceptor.AcceptorIoHandler - Disconnecting; received message for unknown session: 8=FIXT.1.19=9335=A34=149=BeerClient0152=20251122-13:02:39.94056=BeerFIXServer98=0108=30141=Y1137=910=216
+[2025-11-22 20:02:45] [main] INFO  quickfix.DefaultSessionSchedule - [FIXT.1.1:BeerFIXServer->BeerClient01] daily, 00:00:00-UTC - 23:59:59-UTC
+[2025-11-22 20:02:45] [main] INFO  com.example.fixacceptor.App - Session created: FIXT.1.1:BeerFIXServer->BeerClient01
+[2025-11-22 20:02:45] [main] INFO  quickfix.SocketAcceptor - SessionTimer started
+[2025-11-22 20:02:46] [main] INFO  quickfix.mina.NetworkingOptions - Socket option: SocketTcpNoDelay=true
+[2025-11-22 20:02:46] [main] INFO  quickfix.mina.NetworkingOptions - Socket option: SocketSynchronousWrites=false
+[2025-11-22 20:02:46] [main] INFO  quickfix.mina.NetworkingOptions - Socket option: SocketSynchronousWriteTimeout=30000
+[2025-11-22 20:02:46] [main] INFO  quickfix.SocketAcceptor - Listening for connections at 0.0.0.0/0.0.0.0:9878 for session(s) [FIXT.1.1:BeerFIXServer->BeerClient01]
+[2025-11-22 20:02:46] [main] INFO  com.example.fixacceptor.App - FIX Acceptor started. Press Ctrl+C to exit.
+[2025-11-22 20:02:46] [QFJ Message Processor] INFO  quickfix.SocketAcceptor - Started QFJ Message Processor
+[2025-11-22 20:03:09] [NioProcessor-2] INFO  quickfix.mina.acceptor.AcceptorIoHandler - MINA session created: local=/127.0.0.1:9878, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=/127.0.0.1:3198
+[2025-11-22 20:03:10] [QFJ Message Processor] INFO  com.example.fixacceptor.App - Logon: FIXT.1.1:BeerFIXServer->BeerClient01

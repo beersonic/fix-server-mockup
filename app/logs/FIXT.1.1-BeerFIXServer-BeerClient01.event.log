@@ -1,0 +1,8 @@
+20251122-13:02:45: Session FIXT.1.1:BeerFIXServer->BeerClient01 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20251122-13:02:45: Created session: FIXT.1.1:BeerFIXServer->BeerClient01
+20251122-13:03:09: Accepting session FIXT.1.1:BeerFIXServer->BeerClient01 from /127.0.0.1:3198
+20251122-13:03:09: Acceptor heartbeat set to 30 seconds
+20251122-13:03:09: Setting DefaultApplVerID (1137=9) from Logon
+20251122-13:03:09: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20251122-13:03:09: Received logon
+20251122-13:03:09: Responding to Logon request
